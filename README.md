@@ -1,8 +1,8 @@
 # flask-heroku-guide
-#How to Deploy a Simple Flask Web App to Heroku (Step-by-Step Guide)
- Author: Your Name
+# How to Deploy a Simple Flask Web App to Heroku (Step-by-Step Guide)
+ ```Author: Vidya
  Date: June 2025
- #Introduction
+ # Introduction
  This guide walks you through building and deploying a simple web application using Flask and
  Heroku. If youre new to backend development or want a project to showcase your technical writing
  skills, this is the perfect starting point.
